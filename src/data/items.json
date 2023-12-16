@@ -1,0 +1,104 @@
+[
+    {
+        "id": "0",
+        "categorie": "Entrées",
+        "plats": [
+            {
+                "nom": "Salade du Jardin des Laurentides",
+                "prix": "7.00",
+                "description": "Cette salade est réalisée à partir des produits du Jarin des Laurentides situé à Mirabel. Fabriqué à partir d'un mélange de salade biologiques de champ ainsi que d'une vinaigrette à partir de sirop de bouleau et de moutarde des champs.",
+                "image": "SaladeJardinPNG.png",
+                "imageBg": "saladebg.jpg"
+            },
+            {
+                "nom": "Chips maison aux épices Boréales",
+                "prix": "5.00",
+                "description": "Cette délicieuse entrée de chips maison assaisonnées du mélange d'épices boréales peut aussi servir d'accompagnement de nos trois plates principaux. Ces patates proviennent d'un producteur situé à Mirabel.",
+                "image": "ChipsPNG.png",
+                "imageBg": "chipsbg.jpg"
+            },
+            {
+                "nom": "Sandwich du jardin",
+                "prix": "10.00",
+                "description": "Le sandwich du jardin est réalisé à partir des légumes biologiques produits par le Jardin des Laurentides situé à Mirabel. Le pain utilisé est d’une fabrication artisanale de la boulangerie des Monts à Saint-Jovite. Le fromage provient de la Fromagerie du Diable de Mont-Tremblant. Le brie utilisé est fait à partir de lait de vache en liberté dans les pâturages des montages de la région.",
+                "image": "AvocatPNG.png",
+                "imageBg": "avocatBg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "categorie": "Repas",
+        "plats" : [
+            {
+                "nom": "Trilogie de mini poulet burger",
+                "prix": "12.00",
+                "description": "La trilogie de mini poulet burger est tout simplement sublime. Fait à partir de poitrines de poulet biologiques des Volailles du Nord de Saint-Jovite, elles sont marinées à partir d’une sélection d’épices boréales. Ces burgers sont montés sur un petit pain de fabrication artisanale de la Boulangerie des Monts à Saint-Jovite. Le fromage cheddar vieilli 5 ans provient de la Fromagerie du Diable de Mont-Tremblant. Ce fromage est fait à partir de lait de vache en libertés dans les pâturages des montages de la région. On y ajoute une petite tranche de tomate légèrement sucrée qui se marie bien avec la marinade du poulet. Ces délicieuses tomates proviennent du Jardin des Laurentides de Mirabel.",
+                "image": "hamburgerPNG.png",
+                "imageBg": "hamburgerBg.jpg"
+            },
+            {
+                "nom": "Sandwich du bûcheron",
+                "prix": "15.00",
+                "description": "Le sandwich du bûcheron est fait à partir de porc effiloché confit dans du gras de canard des Volailles du Nord de Saint-Jovite. Notre porc biologique est soigneusement élevé directement par nous à Mont-Tremblant. La marinade est à base d’un mélange d’épices boréales et de sirop d’érable de l’Érablière du Nord de Sainte-Agathe. Le tout est surmonté d’une délicieuse salade de choux des Serres du Nord de Sainte-Agathe. La Boulangerie des Monts à Saint-Jovite nous a spécialement confectionné un délicieux pain brioché pour ce sandwich.",
+                "image": "hamburger2PNG.png",
+                "imageBg": "hamburger2Bg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "categorie": "Desserts",
+        "plats" : [
+            {
+                "nom": "1 Beigne de patate",
+                "prix": "1.00",
+                "description" : "Les beignes de patate sont d’une fabrication artisanale basée sur une recette ancestrale. Les pommes de terre proviennent de la Ferme Hector Gagné de Mirabel. Ces beignes nécessitent aussi du sucre d’érable de l’Érablière du Nord de Sainte-Agathe.",
+                "image": "beignePNG.png",
+                "imageBg": "beigneBg.jpg"
+            },
+            {
+                "nom": "3 Beignes de patate",
+                "prix": "6.00",
+                "description" : "Les beignes de patate sont d’une fabrication artisanale basée sur une recette ancestrale. Les pommes de terre proviennent de la Ferme Hector Gagné de Mirabel. Ces beignes nécessitent aussi du sucre d’érable de l’Érablière du Nord de Sainte-Agathe.",
+                "image": "beignePNG.png",
+                "imageBg": "beigneBg.jpg"
+            },
+            {
+                "nom": "6 Beignes de patate",
+                "prix": "10.00",
+                "description" : "Les beignes de patate sont d’une fabrication artisanale basée sur une recette ancestrale. Les pommes de terre proviennent de la Ferme Hector Gagné de Mirabel. Ces beignes nécessitent aussi du sucre d’érable de l’Érablière du Nord de Sainte-Agathe.",
+                "image": "beignePNG.png",
+                "imageBg": "beigneBg.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "categorie": "Boissons",
+        "plats" : [
+            {
+                "nom": "Café",
+                "prix": "3.50",
+                "description": "À notre restaurant, nous vous proposons une délicieuse sélection de café de qualité supérieure. Nos grains de café sont soigneusement choisis parmi les meilleurs du monde, torréfiés pour libérer des arômes riches de chocolat, de noix et de caramel. Que vous préfériez un espresso corsé, un cappuccino crémeux ou un café filtre fraîchement moulu, notre équipe de baristas talentueux est là pour préparer votre tasse de café parfaite. Découvrez l'excellence du café dans un cadre chaleureux et accueillant.",
+                "image": "cafePNG.png",
+                "imageBg": "cafeBg.jpg"
+            },
+            {
+                "nom": "Boissons gazeuses",
+                "prix": "3.00",
+                "description": "Pour une expérience rafraîchissante, plongez dans notre sélection de boissons gazeuses, parfaites pour accompagner vos repas ou pour étancher votre soif. Notre restaurant propose une variété de sodas classiques, de boissons pétillantes et de sodas artisanaux. Vous pourrez savourer des saveurs pétillantes, des bulles rafraîchissantes et des arômes délicieux.",
+                "image": "GazPNG.png",
+                "imageBg": "sodaBg.jpg"
+            },
+            {
+                "nom": "Thé glacé",
+                "prix": "4.00",
+                "description": "Plongez dans un monde de rafraîchissement et d'arômes exquis avec notre sélection de thé glacé. Au cœur de notre restaurant, nous préparons soigneusement du thé glacé artisanal pour offrir à nos clients une expérience de boisson désaltérante et délicieuse. Notre thé glacé est préparé avec des feuilles de thé de haute qualité, infusées pour révéler des arômes subtils et une saveur riche.",
+                "image": "ThePNG.png",
+                "imageBg": "teaBg.jpg"
+            }
+        ]
+    }
+
+]

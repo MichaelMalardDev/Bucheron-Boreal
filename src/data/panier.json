@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "categorie": "Entrées",
+        "plats": [
+            {
+                "nom": "Salade du Jardin des Laurentides",
+                "prix": "7.00",
+                "image": "SaladeJardinPNG.png",
+                "imageBg": "saladebg.jpg",
+                "nb": "1"
+            },
+            {
+                "nom": "Sandwich du jardin",
+                "prix": "10.00",
+                "image": "AvocatPNG.png",
+                "imageBg": "avocatbg.jpg",
+                "nb": "2"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "categorie": "Repas",
+        "plats" : [
+            {
+                "nom": "Trilogie de mini poulet burger",
+                "prix": "12.00",
+                "image": "hamburgerPNG.png",
+                "imageBg": "hamburgerBg.jpg",
+                "nb": "1"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "categorie": "Boissons",
+        "plats" : [
+            {
+                "nom": "Café",
+                "prix": "3.50",
+                "image": "cafePNG.png",
+                "imageBg": "cafeBg.jpg",
+                "nb": "1"
+            }
+        ]
+    }
+]
